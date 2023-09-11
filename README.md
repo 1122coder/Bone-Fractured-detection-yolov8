@@ -20,4 +20,4 @@ The results of this project are:
 
 
 
-For further information about this project, please refer to the article at https://medium.com/@malikmuhammadkashif414.
+For further information about this project, please refer to the article at https://medium.com/@malikmuhammadkashif414/building-a-bone-fracture-detection-model-with-yolov8-an-end-to-end-machine-learning-project-b71879b17846
