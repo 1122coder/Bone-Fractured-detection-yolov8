@@ -1,0 +1,9 @@
+
+train: /content/drive/MyDrive/Yolov8_dataset/train/images #specify your directory path 
+val: /content/drive/MyDrive/Yolov8_dataset/valid/images
+test: test/images
+
+nc: 4
+names: ['angle', 'fracture', 'line', 'messed_up_angle']
+
+
